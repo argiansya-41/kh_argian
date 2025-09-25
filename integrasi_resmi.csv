@@ -1,0 +1,26 @@
+id_integrasi,tanggal,lokasi,lat,lon,tingkat,status
+001,20-09-2025,Jakarta Pusat,-6.1754,106.8272,Tinggi,Aktif
+002,20-09-2025,Medan,3.5952,98.6722,Sedang,Aktif
+003,20-09-2025,Makassar,-5.1477,119.4327,Tinggi,Aktif
+004,20-09-2025,Jayapura,-2.5916,140.6689,Tinggi,Aktif
+005,20-09-2025,Surabaya,-7.2504,112.7688,Sedang,Aktif
+006,20-09-2025,Bandung,-6.9175,107.6191,Rendah,Aktif
+007,20-09-2025,Ambon,-3.6547,128.19,Tinggi,Aktif
+008,20-09-2025,Pontianak,-0.0263,109.3425,Sedang,Aktif
+009,20-09-2025,Samarinda,-0.5021,117.1537,Sedang,Aktif
+010,20-09-2025,Palembang,-2.9761,104.7754,Rendah,Aktif
+011,20-09-2025,Kupang,-10.1772,123.607,Tinggi,Aktif
+012,20-09-2025,Palu,-0.8986,119.8707,Tinggi,Aktif
+013,20-09-2025,Manado,1.4748,124.8421,Sedang,Aktif
+014,20-09-2025,Balikpapan,-1.2379,116.8529,Rendah,Aktif
+015,20-09-2025,Padang,-0.9471,100.4172,Sedang,Aktif
+016,20-09-2025,Banjarmasin,-3.3167,114.59,Rendah,Aktif
+017,20-09-2025,Denpasar,-8.6705,115.2126,Rendah,Aktif
+018,20-09-2025,Serang,-6.12,106.15,Sedang,Aktif
+019,20-09-2025,Cirebon,-6.7063,108.557,Rendah,Aktif
+020,20-09-2025,Malang,-7.9666,112.6326,Rendah,Aktif
+021,20-09-2025,Ternate,0.79,127.39,Tinggi,Aktif
+022,20-09-2025,Jambi,-1.61,103.61,Sedang,Aktif
+023,20-09-2025,Mataram,-8.5833,116.1167,Rendah,Aktif
+024,20-09-2025,Tarakan,3.3,117.6333,Sedang,Aktif
+025,20-09-2025,Merauke,-8.4932,140.4018,Tinggi,Aktif

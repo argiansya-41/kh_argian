@@ -1,0 +1,26 @@
+id_laporan,tanggal,pelapor,lokasi,deskripsi,status
+001,21-09-2025,User123,Jakarta Barat,Bentrok antar kelompok,Menunggu Verifikasi
+002,21-09-2025,User456,Bekasi,Demo buruh,Terverifikasi
+003,21-09-2025,User789,Tangerang,Kebakaran dipicu konflik,Terverifikasi
+004,21-09-2025,User321,Depok,Demo mahasiswa,Menunggu Verifikasi
+005,21-09-2025,User654,Bogor,Aksi tawuran,Terverifikasi
+006,21-09-2025,User147,Cilegon,Bentrok buruh,Menunggu Verifikasi
+007,21-09-2025,User258,Karawang,Pemblokiran jalan,Terverifikasi
+008,21-09-2025,User369,Cianjur,Demo guru honorer,Menunggu Verifikasi
+009,21-09-2025,User741,Garut,Bentrok antar warga,Terverifikasi
+010,21-09-2025,User852,Tasikmalaya,Demo transportasi online,Menunggu Verifikasi
+011,21-09-2025,User963,Purwakarta,Kerusuhan kecil,Terverifikasi
+012,21-09-2025,User111,Cimahi,Tawuran pelajar,Menunggu Verifikasi
+013,21-09-2025,User222,Sukabumi,Demo harga pangan,Terverifikasi
+014,21-09-2025,User333,Subang,Aksi blokade jalan,Menunggu Verifikasi
+015,21-09-2025,User444,Indramayu,Bentrok nelayan,Terverifikasi
+016,21-09-2025,User555,Majalengka,Keributan pasar,Menunggu Verifikasi
+017,21-09-2025,User666,Sumedang,Demo mahasiswa,Terverifikasi
+018,21-09-2025,User777,Kuningan,Bentrok ormas,Terverifikasi
+019,21-09-2025,User888,Banjar,Tawuran remaja,Menunggu Verifikasi
+020,21-09-2025,User999,Ciamis,Demo buruh,Terverifikasi
+021,21-09-2025,User112,Serang,Kerusuhan kecil,Terverifikasi
+022,21-09-2025,User113,Lebak,Aksi blokir jalan,Menunggu Verifikasi
+023,21-09-2025,User114,Pandeglang,Demo nelayan,Terverifikasi
+024,21-09-2025,User115,Bogor Selatan,Kerusuhan kecil,Menunggu Verifikasi
+025,21-09-2025,User116,Depok Timur,Demo mahasiswa,Terverifikasi

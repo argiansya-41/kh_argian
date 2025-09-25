@@ -1,0 +1,26 @@
+id_sensor,tanggal,lokasi,lat,lon,sensor,deteksi
+001,23-09-2025,Jakarta Selatan,-6.2667,106.8,CCTV Jalan Sudirman,Kerumunan
+002,23-09-2025,Surabaya,-7.2504,112.7688,CCTV Tunjungan,Demo
+003,23-09-2025,Bandung,-6.9175,107.6191,CCTV Alun-Alun,Kerumunan
+004,23-09-2025,Makassar,-5.1477,119.4327,Drone Pemerintah,Kerumunan
+005,23-09-2025,Medan,3.5952,98.6722,CCTV Lapangan Merdeka,Demo
+006,23-09-2025,Jayapura,-2.5916,140.6689,CCTV Kota,Kerusuhan
+007,23-09-2025,Ambon,-3.6547,128.19,CCTV Jalan Utama,Kerumunan
+008,23-09-2025,Pontianak,-0.0263,109.3425,CCTV Terminal,Demo
+009,23-09-2025,Palu,-0.8986,119.8707,CCTV Kantor Walikota,Kerumunan
+010,23-09-2025,Balikpapan,-1.2379,116.8529,Drone Polisi,Kerumunan
+011,23-09-2025,Manado,1.4748,124.8421,CCTV Pusat Kota,Demo
+012,23-09-2025,Denpasar,-8.6705,115.2126,CCTV Jalan Dewi Sartika,Kerumunan
+013,23-09-2025,Serang,-6.12,106.15,CCTV Alun-Alun,Demo
+014,23-09-2025,Malang,-7.9666,112.6326,CCTV Kampus,Kerumunan
+015,23-09-2025,Padang,-0.9471,100.4172,CCTV Jembatan Siti Nurbaya,Kerumunan
+016,23-09-2025,Samarinda,-0.5021,117.1537,CCTV Balai Kota,Demo
+017,23-09-2025,Mataram,-8.5833,116.1167,CCTV Lapangan Sangkareang,Kerumunan
+018,23-09-2025,Surakarta,-7.5667,110.8167,CCTV Kota,Kerumunan ±70 orang
+019,23-09-2025,Tasikmalaya,-7.3333,108.2,Drone Patroli,Konvoi kendaraan
+020,23-09-2025,Bogor,-6.595,106.8167,CCTV Jalan Tol,Kemacetan akibat massa
+021,23-09-2025,Depok,-6.4025,106.7942,IoT Lalu Lintas,Pergerakan massa tidak biasa
+022,23-09-2025,Cimahi,-6.873,107.553,CCTV Kota,Kerumunan ±40 orang
+023,23-09-2025,Tegal,-6.8667,109.1333,Drone Udara,Demo mahasiswa
+024,23-09-2025,Cilegon,-6.0167,106.0333,CCTV Pelabuhan,Massa pekerja berkumpul
+025,23-09-2025,Batu,-7.8667,112.5333,CCTV Alun-Alun Kota,Kerumunan di alun-alun
