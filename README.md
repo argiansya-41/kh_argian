@@ -1,1 +1,1 @@
-buatkan bahasa pemrograman semua data json diatas menjadi table dengan benar dan jangan menggunakan bahasa pandas
+buatkan bahasa pemrograman semua data json diatas menjadi table dengan benar dan jangan menggunakan pandas
